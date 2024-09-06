@@ -1,0 +1,15 @@
+{
+  "name": "swaplocation",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {
+    "build": "bun run build.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "chrome-types": "^0.1.301"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
