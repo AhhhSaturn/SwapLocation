@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "SwapLocation",
+  "version": "1.0",
+  "description": "Swap location felids (WarwickAddons)",
+  "content_scripts": [
+    {
+      "js": [
+        "index.js"
+      ],
+      "matches": [
+        "https://*.duckduckgo.com/*"
+      ]
+    }
+  ]
+}

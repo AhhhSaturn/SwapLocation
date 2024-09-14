@@ -1,9 +1,0 @@
-{
-    "manifest_version": 3,
-    "name": "SwapLocation",
-    "version": "1.0",
-    "description": "Swap location felids (WarwickAddons)",
-    "background": {
-        "service_worker": "index.js"
-    }
-}

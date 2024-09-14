@@ -1,0 +1,1 @@
+const input = document.querySelector('.searchbox_searchbox__eaWKL > input');
